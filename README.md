@@ -1,6 +1,4 @@
-# Metropoles Scraper (exemplo)
-
-Este repositório contém um scraper simples e organizado (DDD-friendly) para extrair as principais notícias de categorias e gerar um CSV agregando título, resumo e link.
+# Metropoles Scraper 
 
 Implementação atual: Selenium WebDriver (usuário pediu `selenium`). O script usa `webdriver-manager` para baixar automaticamente os drivers no Windows.
 
